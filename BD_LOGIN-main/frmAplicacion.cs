@@ -7,7 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+/*JULIAN MANRIQUE CUERVO
+25/09/2024
 
+*/
 namespace PROCESO_CRUD
 {
     public partial class frmAplicacion : Form
