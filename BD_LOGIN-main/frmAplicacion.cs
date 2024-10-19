@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /*JULIAN MANRIQUE CUERVO
-25/09/2024
+20/08/2024
 
 */
 namespace PROCESO_CRUD
